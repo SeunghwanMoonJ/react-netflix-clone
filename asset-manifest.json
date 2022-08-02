@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/SeunghwanMoonJ/react-netflix-clone/static/js/main.001e68a9.js",
+    "main.js": "/SeunghwanMoonJ/react-netflix-clone/static/js/main.7655e0e7.js",
     "index.html": "/SeunghwanMoonJ/react-netflix-clone/index.html",
-    "main.001e68a9.js.map": "/SeunghwanMoonJ/react-netflix-clone/static/js/main.001e68a9.js.map"
+    "main.7655e0e7.js.map": "/SeunghwanMoonJ/react-netflix-clone/static/js/main.7655e0e7.js.map"
   },
   "entrypoints": [
-    "static/js/main.001e68a9.js"
+    "static/js/main.7655e0e7.js"
   ]
 }
